@@ -1,4 +1,4 @@
-# Task2-PHP
+# Task3-PHP
 
 PHP Sheet #1 — Practice Solutions
 
